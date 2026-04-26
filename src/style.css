@@ -9,8 +9,8 @@
   font-weight: bold;
 }
 
-body {
-  padding-top: 20px;
+.search-form--big {
+  margin-top: 20px;
 }
 
 .search-form--small {
