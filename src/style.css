@@ -9,11 +9,11 @@
   font-weight: bold;
 }
 
-.search-form-big {
-  margin-top: 20px;
+body {
+  padding-top: 20px;
 }
 
-.search-form-small {
+.search-form--small {
   margin-top: 20px;
 }
 
